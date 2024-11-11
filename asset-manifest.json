@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marketesqproject/static/css/main.836979da.css",
+    "main.js": "/marketesqproject/static/js/main.939363a6.js",
+    "static/js/453.8dd9ee9a.chunk.js": "/marketesqproject/static/js/453.8dd9ee9a.chunk.js",
+    "index.html": "/marketesqproject/index.html",
+    "main.836979da.css.map": "/marketesqproject/static/css/main.836979da.css.map",
+    "main.939363a6.js.map": "/marketesqproject/static/js/main.939363a6.js.map",
+    "453.8dd9ee9a.chunk.js.map": "/marketesqproject/static/js/453.8dd9ee9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.836979da.css",
+    "static/js/main.939363a6.js"
+  ]
+}
